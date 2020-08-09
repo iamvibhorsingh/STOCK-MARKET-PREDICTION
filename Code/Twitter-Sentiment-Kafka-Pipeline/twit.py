@@ -6,10 +6,10 @@ import json
 import time
 
 # initialize api instance
-twitter_api = twitter.Api(consumer_key='8VZ4lA57oPFllYYUlvgGZT1AC',
-                        consumer_secret='2ti5D47N9CtEy6fdVIDqw0DuvXat7l9zxzLtbZTfquV5slTmDz',
-                        access_token_key='1203866630691921920-10SjWpeJamHBSpFTNuXGdgHJKDh3h0',
-                        access_token_secret='5BiI0q01XVWxZoGYfGcil6ovBZHmjrIgXNMXfoYX99GOD')
+twitter_api = twitter.Api(consumer_key='#addkey',
+                        consumer_secret='#addkey',
+                        access_token_key='#addkey',
+                        access_token_secret='#addkey')
 
 
 def buildTestSet(search_keyword):
