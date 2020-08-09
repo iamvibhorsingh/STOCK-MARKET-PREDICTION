@@ -30,7 +30,6 @@ https://api.twitter.com/1.1/search/tweets.json
 
 ## Big Data Pipeline
 ![Pipeline](https://github.com/iamvibhorsingh/STOCK-MARKET-PREDICTION/blob/master/Code/Jupyter-Notebook/big%20data%20pipeline.png)
-Format: ![Our 5 step pipeline](https://github.com/iamvibhorsingh/STOCK-MARKET-PREDICTION/blob/master/Code/Jupyter-Notebook/big%20data%20pipeline.png)
 
 ## Architecture
 ![Project Architecture](https://github.com/iamvibhorsingh/STOCK-MARKET-PREDICTION/blob/master/Code/Jupyter-Notebook/Architecture.png)
